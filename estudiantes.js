@@ -1,14 +1,8 @@
 const LISTA_ESTUDIANTES = [
     {
-        nombre: 'Andrés Felipe Isaza Arboleda',
+        nombre: 'Daniel Alejandro Higuita Usuga',
         sede: 'Medellín',
-        github: 'andresisazaa',
-        page: './pages/AndresIsaza.html'
-    },
-    {
-        nombre: 'Sebastian Gallego Pulgarin',
-        sede: 'Medellín',
-        github: 'sebasgp',
-        page: './pages/sebasgp.html'
+        github: 'danielxf007',
+        page: 'https://www.youtube.com/watch?v=2TMs2E6cms4'
     }
 ];
